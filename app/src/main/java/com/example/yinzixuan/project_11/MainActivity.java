@@ -60,7 +60,7 @@ public class MainActivity extends AppCompatActivity {
 
                 Student_3.setText(str+"");
             }
-            if(a>3)textView.setText("显示已满！！！");
+            if(a>2)textView.setText("显示已满！！！");
             a++;
         }
     }
